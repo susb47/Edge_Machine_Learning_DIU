@@ -54,5 +54,20 @@ The model is trained using **Cross-Entropy Loss** and optimized with **Stochasti
 ## Installation
 To run this project, you need to install the following dependencies:
 
-```bash
-pip install torch torchvision matplotlib numpy scikit-learn
+
+
+### Clone the Repository:
+
+
+git clone (https://github.com/susb47/Edge_Machine_Learning_DIU.git)
+cd Edge_Machine_Learning_DIU
+
+##Results
+After training for 5 epochs, the model achieves:
+
+Test Accuracy: 78.5%
+
+ROC AUC Score: 0.92
+
+The ROC curve and confusion matrix provide additional insights into the model's performance, highlighting areas for improvement.
+
